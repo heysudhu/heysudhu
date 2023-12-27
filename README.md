@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wtfsudhu
+- 👋 Hi, I’m @heysudhu
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on,,,
